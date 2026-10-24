@@ -18,7 +18,7 @@
 ## Section 1: Test Suite Configuration
 - **Pytest Version & Framework:** Pytest 8.4.2 
 - **Total Test Cases Written:** 136
-- **Measured Code Coverage (%):**  95%
+- **Measured Code Coverage (%):**  98%
 - **Key Fixtures Implemented:**  empty_manager, sample_student, populated_manager, conftest.py (valid registration data)
 
 ---
@@ -44,7 +44,7 @@
 ---
 
 ## Section 4: Deployed and Presentation Information
-- **GitHub Repository URL:** https://github.com/yadanar025
+- **GitHub Repository URL:** https://github.com/Yadanar025/TEST_MMDT002
 - **Video Presentation Link:** https://drive.google.com/file/d/1dEZhGuI3Hn8ceLb2yLhLOR_NXblA3Ig0/view?usp=drive_link
 
 ---
